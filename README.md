@@ -1,2 +1,2 @@
 # afroguy27.github.io
-A plugin for my server
+A plugin for Minecraft to add new expansive biomes
