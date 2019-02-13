@@ -1,0 +1,11 @@
+-- Planned Changes --
+
+** Most important **
+Add a space biome that generates planets (large spheres of various Minecraft blocks)
+Create a planet object (in code)
+Create a biome generator with various options for adjustments
+
+** Less important (but still important) **
+Add custom mobs
+Add custom structures
+Add new blocks/ores/resources/materials
